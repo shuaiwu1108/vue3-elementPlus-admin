@@ -104,6 +104,13 @@ yarn  or  yarn install
 or
 npm install
 
+# 关闭proxy
+npm config set proxy false
+npm cache verify
+
+# 安装element-plus
+npm install element-plus
+
 # 开发模式
 yarn dev
 or
